@@ -1,0 +1,15 @@
+name: fair-init-1950
+channels:
+  - chrisroadmap
+  - conda-forge
+dependencies:
+  - python==3.11
+  - fair==2.1.4
+  - jupyter
+  - matplotlib
+  - netCDF4
+  - numpy
+  - pandas
+  - pooch
+  - tqdm
+  - xarray
